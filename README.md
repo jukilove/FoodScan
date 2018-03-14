@@ -1,7 +1,7 @@
 # FoodScan
 # Group Project - *FoodScan*
 
-**FoodScan** is a food app that allows a user to take a photo of a specific food to determine the nutritional value of the aformentioned item, as well as determining where said food item can be located using a map integrated into the app.
+**FoodScan** is a food app that allows a user to take a photo of a specific food to determine the nutritional value of the aforementioned item, as well as determining where said food item can be located using a map integrated into the app.
 
 Time spent: **X** hours spent in total
 
