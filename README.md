@@ -21,3 +21,13 @@ The following **stretch** features are implemented:
 - [ ] Style the login page using more UI
 - [ ] Allow logged in user to add a profile photo
 
+## Video Walkthrough
+
+Here's a walkthrough of app wireframes:
+<img src='https://i.imgur.com/1PXLRLG.gif' title='Wireframe Video Walkthrough' width='' alt='Wireframe Video Walkthrough' />
+
++## License
+Copyright [2018] [TeamWEJ]
+William Doran
+Elizabeth Owolabi
+Jasmine Edwards
